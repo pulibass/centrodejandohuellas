@@ -184,13 +184,12 @@ export const TESTIMONIALS = [
 ]
 
 export const CONTACT_INFO = {
-  address: 'Av. Colón 1234, Córdoba, Argentina',
-  whatsapp: '+54 9 351 000 0000',
-  phone: '(0351) 000-0000',
-  email: 'hola@dejandohuellas.com.ar',
+  address: 'Dean funes 5227, Córdoba, Argentina 5003',
+  whatsapp: '+54 9 3512597527 - 3512397728',
+  email: 'pspdejandohuellas@gmail.com',
   hours: 'Lunes a Viernes de 9 a 19 hs',
   mapEmbedSrc:
-    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3405.0!2d-64.1888!3d-31.4201!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zMzHCsDI1JzEyLjQiUyA2NMKwMTEnMTkuNyJX!5e0!3m2!1ses!2sar!4v0000000000000',
+    'https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3081.981325903268!2d-64.25184912468455!3d-31.394828295208974!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x94329f31e4c155fd%3A0x4552970d3d3d73a9!2sDe%C3%A1n%20Funes%205227%2C%20X5000%20C%C3%B3rdoba!5e1!3m2!1ses!2sar!4v1783550157851!5m2!1ses!2sar',
 }
 
-export const WHATSAPP_NUMBER = '5493510000000'
+export const WHATSAPP_NUMBER = '5493512597527'
